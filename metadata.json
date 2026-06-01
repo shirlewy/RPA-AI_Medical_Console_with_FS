@@ -1,0 +1,6 @@
+{
+  "name": "医药行业 RPA+AI 中控台",
+  "description": "医药行业专业自动化与人工智能中控台，监控机器人实时状态、追踪预警记录与业务统计。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
